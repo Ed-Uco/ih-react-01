@@ -1,3 +1,5 @@
+//1. IMPORTACIONES EN REAC
+//ejemplos React =  require('react')
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
